@@ -1,0 +1,7 @@
+.react-tabs__tab--selected{
+    background: rgb(98,100,167);
+    color: rgb(255,255,255);
+}
+.parent{
+    left: "5px"
+}
